@@ -11,22 +11,21 @@
 ## Scientists
 - [Home Page of Matthew Zeiler] (http://www.matthewzeiler.com/)
 - [Yann LeCun&#39;s Home Page] (http://yann.lecun.com/)
-- [Yann&#39;s Airplanes] (http://www.lecun.org/hobby/planes.html)
 - [Home - Andrew Ng] (http://www.andrewng.org/)
 - [karpathy (Andrej)] (https://github.com/karpathy)
 - [Denis Pelli] (http://psych.nyu.edu/pelli/index.html)
 
 ## Papers
+- [[1311.2901] Visualizing and Understanding Convolutional Networks] (http://arxiv.org/abs/1311.2901)
+- [matthewzeile/phdthesis/main.pdf] (http://www.matthewzeiler.com/pubs/phdthesis/main.pdf)
 - [Bringing Semantics into Focus Using Visual Abstraction] (http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zitnick_Bringing_Semantics_into_2013_CVPR_paper.pdf)
 - [Visual Abstraction] (https://people.cs.pitt.edu/~chang/365/diag.html)
 - [visual abstraction - Google Search] (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=visual%20abstraction)
 - [yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf] (http://yann.lecun.com/exdb/publis/pdf/lecun-98b.pdf)
-- [[1311.2901] Visualizing and Understanding Convolutional Networks] (http://arxiv.org/abs/1311.2901)
 - [1508.06576v2.pdf] (http://arxiv.org/pdf/1508.06576v2.pdf)
 - [Zero-Shot Learning via Visual Abstraction] (https://computing.ece.vt.edu/~santol/projects/zsl_via_visual_abstraction/)
 - [IEEE Xplore Abstract - Bringing Semantics into Focus Using Visual Abstraction] (http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=6619231&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6619231)
 - [LNCS 8689 - Visualizing and Understanding Convolutional Networks] (http://www.matthewzeiler.com/pubs/arxive2013/eccv2014.pdf)
-- [main.pdf] (http://www.matthewzeiler.com/pubs/phdthesis/main.pdf)
 - [Magic for Dogs, and What That Says about Vision and Consciousness | Neuroanthropology] (http://blogs.plos.org/neuroanthropology/2014/04/09/magic-dogs-says-vision-consciousness/)
 - [[1112.6209] Building high-level features using large scale unsupervised learning] (http://arxiv.org/abs/1112.6209)
 
