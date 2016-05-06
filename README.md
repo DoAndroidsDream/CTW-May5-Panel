@@ -1,11 +1,10 @@
-## Do Andoids Dream?  / CTW-May5-Panel
-Resource pages for *Andoids-dream* Panel
+## Do Androids Dream? Deep Visual Abstraction from Artificial Neural Networks
 
-(Creative Tech Week 2016 - Arts Hub - May, 5 2016)
+[Panel: Creative Tech Week 2016 - Arts Hub - May, 5 2016](https://creativetechweek2016.sched.org/event/c7971118393cf6ab79cf038d0cbe55d4)
 
 
-### Motivating question
-- What can we learn about visual art and human imagination from deep neural networks
+### Motivating question:
+> **Can we learn about _art_ and _visual imagination_ from _deep neural networks_?**
 
 
 ### Our panelists:
