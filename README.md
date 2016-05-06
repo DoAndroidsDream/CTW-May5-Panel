@@ -20,7 +20,7 @@
 - [Dr. Matthew Zeiler](https://creativetechweek2016.sched.org/speaker/matthew_zeiler.1v4squl7): Founder & CEO, Clarifai, an important AI Vision company
    - Matt’s deep neural network visualization techniques drove major breakthroughs in object recognition accuracy
    - Matt won for Clarifai the top five places in the 2013 ImageNet competition
-      - (beating entries from top AI research centers like Google and Microsoft.)
+      - (beating entries from world class AI research centers like Google and Microsoft.)
 
 - [Cassidy Williams](https://creativetechweek2016.sched.org/speaker/cassidy_williams.1v4sqzba) – Software Engineer & Developer Evangelist, Clarifai
    - Cassidy will describe Clarifai's API and developer program
