@@ -1,13 +1,12 @@
-## Do Androids Dream? Deep Visual Abstraction from Artificial Neural Networks
+# Do Androids Dream?
+> ## Deep Visual Abstraction from Artificial Neural Networks
 
 [Panel: Creative Tech Week 2016 - Arts Hub - May, 5 2016](https://creativetechweek2016.sched.org/event/c7971118393cf6ab79cf038d0cbe55d4)
 
-
-### Motivating question:
+#### Motivating question:
 > **Can we learn about _art_ and _visual imagination_ from _deep neural networks_?**
 
-
-### Our panelists:
+#### Our panelists:
 - [Gene Miller](https://creativetechweek2016.sched.org/speaker/gene_miller): Panel Chair
 
 - [Gizem Küçükoğlu](https://creativetechweek2016.sched.org/speaker/gizemkucukoglu): Human vision researcher at NYU
@@ -25,4 +24,5 @@
 - [Cassidy Williams](https://creativetechweek2016.sched.org/speaker/cassidy_williams.1v4sqzba) – Software Engineer & Developer Evangelist, Clarifai
    - Cassidy will describe Clarifai's API and developer program
 
-### [References](References.md)
+### Resources
+[References](References.md)
