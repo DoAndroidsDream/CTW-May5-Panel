@@ -8,18 +8,21 @@
 
 
 ### Our panelists:
-- Gizem Küçükoğlu: vision researcher at NYU will summarize brain models of visual perception/cognition.
+- [Gene Miller](https://creativetechweek2016.sched.org/speaker/gene_miller): Panel Chair
 
-- Dr. Matt Zeiler: founder of the AI Vision company Clarifai.
-   - Matt’s deep neural network visualization techniques drove major breakthroughs in object recognition accuracy, winning for Clarifai the top five places in the 2013 ImageNet competition (beating entries from top AI research centers like Google, Microsoft, etc.)
+- [Gizem Küçükoğlu](https://creativetechweek2016.sched.org/speaker/gizemkucukoglu): Human vision researcher at NYU
+   - Gizem will compare models of human vision brain function to artificial neural networks
 
-- Dr. Nick Lambert, Art and culture historian and a major figure in CTW 2016.
+- [Nicholas Lambert](https://creativetechweek2016.sched.org/speaker/nick.lambert), Head of Research, Ravensbourne, London
+   - Nick will talk about Artificial Intelligence Art.
+   - He is an Art and Culture historian, and a major figure in CTW 2016.
 
-- Cassidy Williams – Developer Evangelist at Clarifai
+- [Dr. Matthew Zeiler](https://creativetechweek2016.sched.org/speaker/matthew_zeiler.1v4squl7): Founder & CEO, Clarifai, an important AI Vision company
+   - Matt’s deep neural network visualization techniques drove major breakthroughs in object recognition accuracy
+   - Matt won for Clarifai the top five places in the 2013 ImageNet competition
+      - (beating entries from top AI research centers like Google and Microsoft.)
 
-- Gene Miller
+- [Cassidy Williams](https://creativetechweek2016.sched.org/speaker/cassidy_williams.1v4sqzba) – Software Engineer & Developer Evangelist, Clarifai
+   - Cassidy will describe Clarifai's API and developer program
 
-
-
-
-- [References](References.md)
+### [References](References.md)
