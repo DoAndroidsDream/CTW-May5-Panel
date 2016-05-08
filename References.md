@@ -17,7 +17,7 @@
 
 ## Papers
 - [[1311.2901] Visualizing and Understanding Convolutional Networks] (http://arxiv.org/abs/1311.2901)
-- [matthewzeile/phdthesis/main.pdf] (http://www.matthewzeiler.com/pubs/phdthesis/main.pdf)
+- [matthewzeiler.com/phdthesis] (http://www.matthewzeiler.com/pubs/phdthesis/main.pdf)
 - [Bringing Semantics into Focus Using Visual Abstraction] (http://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Zitnick_Bringing_Semantics_into_2013_CVPR_paper.pdf)
 - [Visual Abstraction] (https://people.cs.pitt.edu/~chang/365/diag.html)
 - [visual abstraction - Google Search] (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=visual%20abstraction)
