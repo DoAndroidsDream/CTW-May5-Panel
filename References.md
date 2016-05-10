@@ -8,14 +8,14 @@
 - [Deep Mind images and Picasso - Google Search] (https://www.google.com/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=Deep+Mind+images+and+Picasso)
 - [LSD neural net - Jonas Degrave] (http://317070.github.io/LSD/)
 
-## Scientists and Historians
+## Scientists
 - [Home Page of Matthew Zeiler] (http://www.matthewzeiler.com/)
 - [Gizem Küçükoğlu] (https://gizemkucukoglu.com/)
 - [Yann LeCun&#39;s Home Page] (http://yann.lecun.com/)
 - [Home - Andrew Ng] (http://www.andrewng.org/)
 - [karpathy (Andrej)] (https://github.com/karpathy)
 
-## Art and Culture Researchers
+## Art and Culture Academics
 - [Dr Nicholas Lambert] (https://www.ravensbourne.ac.uk/staff/dr-nicholas-lambert/)
 
 ## Papers
